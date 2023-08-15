@@ -1,4 +1,4 @@
-# Super-Peach-Sisters-Game
+# Super Peach Sisters Game
 This video game is inspired by the Super Mario game. I created the Actor and StudentWorld header and CPP files to implement the characters and interactive features in C++ with object-oriented design. I All other files were provided as a skeleton for the game.
 
 # Getting started:
