@@ -8,9 +8,9 @@ Install [XQuartz 2.8.1 or newer](https://www.xquartz.org/releases/index.html).
 
 ### Step 2. Download and organize files.
 Download all the files into one local folder.  
-Inside the local folder, open the folder ```DerivedData```.  
+Open the folder ```DerivedData``` inside the local folder.  
 Remove all files except for the 4 zip files: ```ModuleCache.noindex.zip```, ```SuperPeachSisters-dfzdgotidoyeewegxkvdmpkrqqst.zip```, ```SuperPeachSisters.zip```, and ```SymbolCache.noindex.zip```.  
-Upzip the 4 zip files.
+Unzip the 4 zip files.
 
 ### Step 3. Open project code.
 Open the file ```SuperPeachSisters.xcodeproj``` in Xcode.
