@@ -6,10 +6,13 @@ This video game is inspired by the Super Mario game. I created the Actor and Stu
 Install [Xcode 14.2 or newer](https://developer.apple.com/download/all/?q=xcode).  
 Install [XQuartz 2.8.1 or newer](https://www.xquartz.org/releases/index.html).
 
-### Step 2.
-Download all the files into one local folder.
+### Step 2. Download and organize files.
+Download all the files into one local folder.  
+Inside the local folder, open the folder ```DerivedData```.  
+Remove all files except for the 4 zip files: ```ModuleCache.noindex.zip```, ```SuperPeachSisters-dfzdgotidoyeewegxkvdmpkrqqst.zip```, ```SuperPeachSisters.zip```, and ```SymbolCache.noindex.zip```.  
+Upzip the 4 zip files.
 
-### Step 3.
+### Step 3. Open project code.
 Open the file ```SuperPeachSisters.xcodeproj``` in Xcode.
 
 ### Step 4. Update the directory pathway for the Derived Data.
