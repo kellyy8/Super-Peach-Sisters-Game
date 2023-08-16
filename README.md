@@ -10,12 +10,12 @@ Install [XQuartz 2.8.1 or newer](https://www.xquartz.org/releases/index.html).
 Download all the files into one local folder.
 
 ### Step 3.
-Open the file "SuperPeachSisters.xcodeproj" in Xcode.
+Open the file ```SuperPeachSisters.xcodeproj``` in Xcode.
 
 ### Step 4. Update the directory pathway for the Derived Data.
-In Xcode, navigate to "File" > "Project Settings..."  
-For the "Derived Data" option, select in the dropdown options "Project-relative location".  
-Click "Done" to save the settings.
+In Xcode, navigate to ```File``` > ```Project Settings...```  
+For the ```Derived Data``` option, select in the dropdown options ```Project-relative location```.  
+Click ```Done``` to save the settings.
 
 ### Step 5. Start the game.
 Run the project code in Xcode.  
